@@ -1,0 +1,21 @@
+[33mtag v1.0.0[m
+Tagger: Neil Archer <archercryptosolutionsinc@gmail.com>
+Date:   Thu Dec 4 23:38:34 2025 -0600
+
+Initial Mahihkan deployment
+
+[33mcommit 25f0a0f3b1f5d408d2e323fea0664a79cd2dc8e7[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m
+Author: Neil Archer <archercryptosolutionsinc@gmail.com>
+Date:   Thu Dec 4 18:54:52 2025 -0600
+
+    chore: update Mahihkan submodule pointer
+    
+    Signed-off-by: Neil Archer <archercryptosolutionsinc@gmail.com>
+
+[1mdiff --git a/Mahihkan b/Mahihkan[m
+[1mindex 6624e78..64700b8 160000[m
+[1m--- a/Mahihkan[m
+[1m+++ b/Mahihkan[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 6624e78a419396ef1b59548a88e04ad29d155c55[m
+[32m+[m[32mSubproject commit 64700b81d03782a55d90599f05ac91489f0f50ff[m
