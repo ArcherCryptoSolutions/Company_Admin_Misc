@@ -1,0 +1,6 @@
+✠ Sovereign Property of ArcherCryptoSolutionsInc ✠
+Bound under Admiralty Law and Intellectual Dominion
+
+
+{"timestamp_utc": "2025-11-28T13:17:32.000Z", "event_type": "SYSTEM_TRIGGER", "context": "RSI_CROSS_OVER", "trade_id": null, "data": {"symbol": "SOL/USDC", "indicator": "RSI(14)", "value": 71.5, "threshold": 70.0, "signal_strength": "HIGH"}}
+{"timestamp_utc": "2025-11-28T13:17:32.000Z", "event_type": "TRADE_EXECUTION", "context": "Position_Opened", "trade_id": "7e6d0a7f-94d0-4b2a-8c9e-3d8b1c4f5e7a", "data": {"symbol": "SOL/USDC", "entry_price": 55.45, "quantity": 120.5, "strategy_id": "SNIPEY_V3_RSI_TREND", "fee_rate": 0.0005}}

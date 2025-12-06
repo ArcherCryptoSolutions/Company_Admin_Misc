@@ -1,0 +1,52 @@
+✠ Sovereign Property of ArcherCryptoSolutionsInc ✠
+Bound under Admiralty Law and Intellectual Dominion
+
+
+=== MAHIHKAN.COM BRANDING KIT ===
+
+PRIMARY COLORS
+Mahihkan Gold:      #D4AF37
+Night Sky:          #0B0B45
+Tepee Beige:        #F5F5DC
+Wolf Gray:          #708090
+
+SECONDARY COLORS
+Tepee Brown:        #8B4513
+Moon Silver:        #A9A9A9
+Moon White:         #FFFFFF
+Star Gold:          #FFD700
+
+TYPOGRAPHY
+Heading: Cinzel (Google Fonts)
+Body:    Lato (Google Fonts)
+Code:    Fira Code
+
+CSS VARIABLES
+:root {
+  --gold: #D4AF37;
+  --night: #0B0B45;
+  --beige: #F5F5DC;
+  --wolf: #708090;
+}
+
+BUTTON
+.btn-primary {
+  background: var(--gold);
+  color: var(--night);
+  border: 2px solid var(--gold);
+  padding: 12px 32px;
+  font-family: 'Cinzel';
+}
+.btn-primary:hover {
+  background: transparent;
+  color: var(--gold);
+}
+
+LOGO RULES (DO NOT ALTER)
+• Never recolor wolf/tepee/moon
+• Minimum 80 px wide
+• 20 % clear space
+• Background: #0B0B45 or #FFFFFF only
+
+COPY THIS FILE TO EVERY REPO:
+cp ~/BRANDING-KIT.txt ~/Snipey-McSniperson-OG/

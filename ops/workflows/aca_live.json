@@ -1,0 +1,25 @@
+{
+  "wallet_balance_cad": "$32.11",
+  "wallet_balance_sol": "0.022747 SOL",
+  "exchange_rate_cad_per_sol": "$1411.8",
+  "last_trigger": "2025-11-15 17:22",
+  "tx_hash": "TX1722",
+  "status": "Monitoring",
+  "triggers": [
+    {
+      "timestamp": "17:22",
+      "tx_hash": "TX1722",
+      "color": "green"
+    },
+    {
+      "timestamp": "04:43",
+      "tx_hash": "5hGk7i...XZL",
+      "color": "yellow"
+    },
+    {
+      "timestamp": "04:26",
+      "tx_hash": "2z4T9p...Q9M",
+      "color": "red"
+    }
+  ]
+}

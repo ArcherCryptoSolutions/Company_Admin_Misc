@@ -1,5 +1,27 @@
+
 *.log
 *.key
 *.pem
 *.crt
 *.env
+=======
+# Build and temp
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.tmp
+*.cache
+*.DS_Store
+
+# Node/Python/etc
+node_modules/
+dist/
+.env
+*.env
+__pycache__/
+
+# VCS
+*.orig
+*.rej

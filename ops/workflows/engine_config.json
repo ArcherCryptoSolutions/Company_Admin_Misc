@@ -1,0 +1,12 @@
+✠ Sovereign Property of ArcherCryptoSolutionsInc ✠
+Bound under Admiralty Law and Intellectual Dominion
+
+
+{
+    "TARGET_MODE": "SNIPER",
+    "TARGET_TOKEN_ADDRESS": "PLACEHOLDER_FOR_SNIPING",
+    "SNIPER_AMOUNT_SOL": 0.0,
+    "MAX_SLIPPAGE_BPS": 100,
+    "TX_TIMEOUT_SECONDS": 5,
+    "SIGNER_KEYPAIR_PATH": "~/ArcherCryptoSolutions/ACA/config/snipey_signer.json"
+}

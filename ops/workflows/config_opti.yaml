@@ -1,0 +1,35 @@
+✠ Sovereign Property of ArcherCryptoSolutionsInc ✠
+Bound under Admiralty Law and Intellectual Dominion
+
+
+wallet:
+  private_key_env: "SOLANA_PRIVATE_KEY"
+  network: "mainnet-beta"
+
+bot:
+  mode: "smart_sniper"
+  max_open_trades: 6
+  buy_percent_per_token: 15
+  sell_trigger: "peak_minus_2_percent"
+  emergency_stop: "ctrl+E"
+  max_balance_pct: 100
+  min_trade_amount: 0.01
+  max_trade_amount: 1e9  # effectively infinite
+  retry_on_fail: true
+  trade_timeout_sec: 30
+  stop_loss_pct: 2  # fallback if peak tracking fails
+
+logging:
+  stats_file: "sniper_stats.json"
+  log_level: "info"
+  log_to_file: true
+
+assets:
+  include_list: []
+  exclude_list: []
+  watchlist: []
+
+branding:
+  mascot: "Snipey.png"
+  theme: "dark"
+  repo: "https://github.com/Wapitsi/Snipey-McSniperson-OG"

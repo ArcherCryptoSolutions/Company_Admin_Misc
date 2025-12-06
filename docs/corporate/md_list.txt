@@ -1,0 +1,6 @@
+/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/BusinessPlan.md
+/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/Proposal.md
+/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md
+/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/CoverLetter.md
+/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/Disclosure.md
+/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/README.md

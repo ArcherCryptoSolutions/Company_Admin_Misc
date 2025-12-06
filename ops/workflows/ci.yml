@@ -1,0 +1,11 @@
+name: Zero Trust CI
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Secret scan
+        run: grep -I -R -n -E -f .secret-patterns.regex . || true
+      - name: Build PDFs
+        run: echo "PDF build placeholder"

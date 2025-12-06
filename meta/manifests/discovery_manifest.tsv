@@ -1,0 +1,455 @@
+timestamp	path	size_bytes	ext	keyword_hits	category
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/deploy_snipey.sh	1098	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/Invoice_ACA_to_CVR.md	803	md	4	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	4	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	5	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/README.md	283	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/BusinessPlan.md	408	md	5	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/CoverLetter.md	622	md	7	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Disclosure.md	538	md	6	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/LICENSE_COMMERCIAL.md	422	md	6	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	5	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Proposal.md	726	md	5	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/Proposal_Mahihkan.md	728	md	5	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/docs/README.md	233	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/fix_snipey_proper.sh	2447	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/.venv/pyvenv.cfg	377	cfg	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/run_snipey.sh	465	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/PROCLAMATION.md	1284	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/BusinessPlan.md	485	md	6	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/MasterServiceAgreement.md	796	md	6	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/Proposal.md	619	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/CoverLetter.md	513	md	7	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/Disclosure.md	429	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/README.md	692	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/BusinessPlan.md	425	md	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Proposal.md	742	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/SLA.md	410	md	1	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/PrivacyPolicy.md	354	md	2	compliance/policies
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Terms.md	321	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/ServiceContract_ACA_to_ACS.md	455	md	4	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/ServiceContract_ACA_to_CVR.md	429	md	4	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Pricing.md	344	md	2	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/InvoiceTemplate.md	526	md	3	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/CoverLetter.md	305	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Disclosure.md	284	md	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/README.md	692	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/BusinessPlan.md	322	md	1	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/Proposal.md	733	md	1	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/ServiceContract_CVR_to_ACS.md	405	md	5	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/Pricing.md	371	md	1	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/InvoiceTemplate.md	480	md	3	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/CoverLetter.md	254	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/Disclosure.md	300	md	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/README.md	692	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/BusinessPlan.md	304	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/Proposal.md	622	md	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md	417	md	3	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/CoverLetter.md	257	md	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/Disclosure.md	336	md	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/README.md	694	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/README.pdf	116379	pdf	2	ops/assets
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/md_list.txt	441	txt	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/output/README.pdf	105871	pdf	2	ops/assets
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/resettemplateandconverter.sh	2716	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/reset_template_and_converter.sh	2345	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/convert_with_template.sh	304	sh	1	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/md2pdf_fleet.sh	652	sh	2	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/templates/pandoc-template.tex	221	tex	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/package/scripts/stamp_offset.sh	270	sh	1	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/ignition.env	71	env	3	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/bootstrap_zero_trust.sh	9306	sh	8	docs/trust
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/Mahihkan/.github/workflows/ci.yml	292	yml	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/.github/workflows/ci.yml	292	yml	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/.venv/pyvenv.cfg	377	cfg	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/PROCLAMATION.md	1284	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/bootstrap_zero_trust.sh	9306	sh	8	docs/trust
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/deploy_snipey.sh	1098	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/Invoice_ACA_to_CVR.md	803	md	4	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	4	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	5	finance/ledger
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/README.md	283	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/BusinessPlan.md	408	md	5	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/CoverLetter.md	622	md	7	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Disclosure.md	538	md	6	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/LICENSE_COMMERCIAL.md	422	md	6	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	5	docs/contracts
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Proposal.md	726	md	5	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Proposal_Mahihkan.md	728	md	5	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/README.md	233	md	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/fix_snipey_proper.sh	2447	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/convert_with_template.sh	304	sh	1	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/md2pdf_fleet.sh	652	sh	2	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/md_list.txt	441	txt	2	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/output/README.pdf	105871	pdf	2	ops/assets
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/reset_template_and_converter.sh	2345	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/resettemplateandconverter.sh	2716	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/scripts/stamp_offset.sh	270	sh	1	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/package/templates/pandoc-template.tex	221	tex	4	docs/corporate
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/run_snipey.sh	465	sh	3	ops/workflows
+2025-12-06T00:40:52Z	/data/data/com.termux/files/home/mahihkan-fixed/mahihkan-fixed.sh	1231	sh	6	ops/workflows
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crypto-mac-0.8.0/.cargo_vcs_info.json	74	json	ops/workflows
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crypto-mac-0.8.0/CHANGELOG.md	1274	md	docs/corporate
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crypto-mac-0.8.0/README.md	1858	md	docs/corporate
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crypto-common-0.1.6/.cargo_vcs_info.json	107	json	ops/workflows
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crypto-common-0.1.6/CHANGELOG.md	1267	md	docs/corporate
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crypto-common-0.1.6/README.md	1882	md	docs/corporate
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fiat-crypto-0.2.9/.cargo_vcs_info.json	103	json	ops/workflows
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fiat-crypto-0.2.9/README.md	465	md	docs/corporate
+2025-12-06T00:57:10Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/untrusted-0.9.0/.cargo_vcs_info.json	74	json	docs/trust
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/untrusted-0.9.0/.github/workflows/ci.yml	5099	yml	docs/trust
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/untrusted-0.9.0/LICENSE.txt	769	txt	docs/trust
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/untrusted-0.9.0/README.md	3245	md	docs/trust
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/untrusted-0.9.0/mk/cargo.sh	6277	sh	docs/trust
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/untrusted-0.9.0/mk/install-build-tools.sh	2985	sh	docs/trust
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ring-0.17.8/crypto/fipsmodule/ecdsa/ecdsa_verify_tests.txt	78972	txt	docs/corporate
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/README-sparse_array.md	5721	md	docs/corporate
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/engine/README.md	14004	md	docs/corporate
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/err/README.md	1824	md	docs/corporate
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/err/openssl.txt	96020	txt	docs/corporate
+2025-12-06T00:57:11Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/objects/README.md	1552	md	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/objects/obj_xref.txt	2933	txt	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/objects/objects.txt	68491	txt	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/perlasm/README.md	4316	md	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/crypto/property/README.md	4593	md	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/util/missingcrypto-internal.txt	150	txt	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/util/missingcrypto.txt	29582	txt	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/openssl-src-300.4.2+3.4.1/openssl/util/missingcrypto111.txt	40163	txt	docs/corporate
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/examples/serialize_contract.schema.json	500	json	docs/contracts
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~adjacently_tagged_enum.de.json	1416	json	docs/contracts
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~adjacently_tagged_enum.ser.json	1388	json	docs/contracts
+2025-12-06T00:57:12Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~externally_tagged_enum.de.json	1018	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~externally_tagged_enum.ser.json	992	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~internally_tagged_enum.de.json	1076	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~internally_tagged_enum.ser.json	1052	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~struct_allow_unknown_fields.de.json	567	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~struct_allow_unknown_fields.ser.json	592	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~struct_deny_unknown_fields.de.json	599	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~struct_deny_unknown_fields.ser.json	624	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~tuple_struct.de.json	335	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~tuple_struct.ser.json	334	json	docs/contracts
+2025-12-06T00:57:13Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~untagged_enum.de.json	524	json	docs/contracts
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/schemars-1.0.5/tests/integration/snapshots/schemars/tests/integration/contract.rs~untagged_enum.ser.json	496	json	docs/contracts
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACA/ServiceContract_ACA_to_ACS.md	693	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACA/ServiceContract_ACA_to_CVR.md	579	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACS/BusinessPlan.md	1355	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACS/MasterServiceAgreement.md	1062	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACS/Proposal.md	1077	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACS/CoverLetter.md	677	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/ACS/Disclosure.md	654	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/CVR_Essentials/ServiceContract_CVR_to_ACS.md	517	md	docs/corporate
+2025-12-06T00:57:14Z	/data/data/com.termux/files/home/docs/Mahihkan/BusinessPlan.md	677	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Mahihkan/LicensingAgreement_Mahihkan_to_ACS.md	567	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Mahihkan/Proposal.md	1132	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Mahihkan/CoverLetter.md	542	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Mahihkan/Disclosure.md	449	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/ServiceContract_CVR_to_ACS.md	514	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Billing/ACA_to_ACS_InvoiceTemplate.md	479	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Billing/ACA_to_CVR_Contract.md	551	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/docs/Billing/CVR_to_Mahihkan_Contract.md	499	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/CVR_Essentials/docs/ACA/ServiceContract_ACA_to_ACS.md	330	md	docs/corporate
+2025-12-06T00:57:15Z	/data/data/com.termux/files/home/CVR_Essentials/docs/ACA/ServiceContract_ACA_to_CVR.md	395	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/CVR_Essentials/docs/ACS/BusinessPlan.md	583	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/CVR_Essentials/docs/ACS/MasterServiceAgreement.md	417	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/CVR_Essentials/docs/CVR_Essentials/ServiceContract_CVR_to_ACS.md	261	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/CVR_Essentials/docs/Mahihkan/BusinessPlan.md	471	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/CVR_Essentials/docs/Mahihkan/LicensingAgreement_Mahihkan_to_ACS.md	284	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/CVR_Essentials/docs/ServiceContract_CVR_to_ACS.md	514	md	docs/corporate
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/catalog/ACA_integrity_2025-11-26.json	16531	json	compliance/audit
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/catalog/ACA_summary_2025-11-26.txt	15394	txt	compliance/audit
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/aca_intake_log.txt	219	txt	compliance/audit
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/logs/aca_run_2025-11-26.log	73315	log	compliance/audit
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/logs/catalog_2025-11-26.log	39981	log	compliance/audit
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/logs/daily_index_2025-11-26.json	65427	json	compliance/audit
+2025-12-06T00:57:16Z	/data/data/com.termux/files/home/ACS/ACA/logs/solana_2025-11-26.log	848037	log	compliance/audit
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ACS/README.md	324	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ACS/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ACS/docs/Billing/README.md	499	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ACS/docs/BusinessPlan.md	224	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ACS/docs/MasterServiceAgreement.md	229	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ACS/docs/README.md	525	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/BRANDING/BRANDING-KIT.txt	1045	txt	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/KISTAPINANIHK.md	677	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/README.md	375	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/TIPEYIMISOWIN.md	710	md	docs/corporate
+2025-12-06T00:57:17Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_dashboard/.github/workflows/ci.yml	690	yml	ops/workflows
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_dashboard/README.md	934	md	docs/corporate
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_dashboard/aca_live.json	618	json	ops/workflows
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_dashboard/requirements.txt	132	txt	docs/corporate
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_dashboard/run.sh	5189	sh	ops/workflows
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/INTEGRITY.md	1308	md	docs/corporate
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_intake_log.txt	643	txt	compliance/audit
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/aca_live.json	476	json	ops/workflows
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/catalog/ACA_integrity_2025-11-26.json	19771	json	compliance/audit
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/catalog/ACA_integrity_2025-11-27.json	8664	json	compliance/audit
+2025-12-06T00:57:18Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/catalog/ACA_summary_2025-11-26.txt	18409	txt	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/catalog/ACA_summary_2025-11-27.txt	8069	txt	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/docs/README.md	1821	md	docs/corporate
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/aca_run_2025-11-26.log	125479	log	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/catalog_2025-11-26.log	68639	log	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/cycles/cycle_2025-11-26_10-31-05.json	315	json	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/cycles/cycle_2025-11-26_17-26-50.json	309	json	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/cycles/cycle_2025-11-26_17-40-09.json	486	json	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/cycles/cycle_2025-11-26_18-06-42.json	486	json	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/cycles/cycle_2025-11-27_01-12-10.json	486	json	compliance/audit
+2025-12-06T00:57:19Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/daily_index_2025-11-26.json	78522	json	compliance/audit
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/daily_index_2025-11-27.json	33999	json	compliance/audit
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/logs/solana_2025-11-26.log	1496673	log	compliance/audit
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/mahihkan-SnipeyMcSniperson-OG-attestation-11437846.sigstore.json	2942	json	compliance/audit
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/requirements.txt	121	txt	docs/corporate
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/config/snipey_signer.json	357	json	ops/workflows
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/config/engine_config.json	368	json	ops/workflows
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/ACA/config/sniper_logic.json	389	json	compliance/audit
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/CONTRIBUTING.md	392	md	docs/corporate
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/Family-Trust-Deed.txt	226	txt	docs/corporate
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/Hierarchy.svg	171	svg	ops/assets
+2025-12-06T00:57:20Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/README.md	1057	md	docs/corporate
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/SECURITY.md	389	md	docs/corporate
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/Snipey.png	312482	png	ops/assets
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/audit.txt	138	txt	compliance/audit
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/bootstrap.sh	3827	sh	ops/workflows
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/config_opti.yaml	779	yaml	ops/workflows
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/docs/sniper_stats_sample.json	404	json	ops/workflows
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/domains.txt	139	txt	docs/corporate
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/grants.txt	117	txt	docs/corporate
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/intake.log	193	log	compliance/audit
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/pitch-deck.md	165	md	docs/corporate
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/requirements.txt	123	txt	docs/corporate
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/scope.sh	800	sh	ops/workflows
+2025-12-06T00:57:21Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/SnipeyOG/upload_to_github.sh	700	sh	ops/workflows
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/WICIHITOWIN.md	700	md	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/blinker-1.9.0.dist-info/LICENSE.txt	1163	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip-25.3.dist-info/licenses/AUTHORS.txt	11612	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip-25.3.dist-info/licenses/LICENSE.txt	1202	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip-25.3.dist-info/entry_points.txt	193	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pluggy-1.6.0.dist-info/top_level.txt	116	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt	1584	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/flask/sansio/README.md	337	md	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/iniconfig-2.3.0.dist-info/top_level.txt	119	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/idna-3.11.dist-info/licenses/LICENSE.md	1650	md	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/itsdangerous-2.2.0.dist-info/LICENSE.txt	1584	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt	1584	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/top_level.txt	120	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pytest-9.0.1.dist-info/entry_points.txt	186	txt	docs/corporate
+2025-12-06T00:57:22Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pytest-9.0.1.dist-info/top_level.txt	127	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/LICENSE.txt	667	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip/_vendor/dependency_groups/LICENSE.txt	1208	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/LICENSE.txt	14640	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip/_vendor/idna/LICENSE.md	1650	md	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/LICENSE.txt	1224	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pip/_vendor/vendor.txt	452	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/jinja2-3.1.6.dist-info/entry_points.txt	167	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/flask-3.1.2.dist-info/entry_points.txt	149	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pygments-2.19.2.dist-info/entry_points.txt	162	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/pyyaml-6.0.3.dist-info/top_level.txt	120	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/urllib3-2.5.0.dist-info/licenses/LICENSE.txt	1202	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/werkzeug-3.1.3.dist-info/LICENSE.txt	1584	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/entry_points.txt	174	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/charset_normalizer-3.4.4.dist-info/top_level.txt	128	txt	docs/corporate
+2025-12-06T00:57:23Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md	331	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/certifi-2025.11.12.dist-info/top_level.txt	117	txt	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/lib/python3.12/site-packages/requests-2.32.5.dist-info/top_level.txt	118	txt	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.venv/pyvenv.cfg	390	cfg	ops/workflows
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ArcherCryptoSolutions/.pytest_cache/README.md	411	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/LEDGER.md	333	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ACA/docs/ServiceContract_ACA_to_ACS.md	564	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/ACA/docs/ServiceContract_ACA_to_CVR.md	538	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/Mahihkan/deploy_snipey.sh	1098	sh	ops/workflows
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/Invoice_ACA_to_CVR.md	803	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/Mahihkan/docs/Billing/README.md	283	md	docs/corporate
+2025-12-06T00:57:24Z	/data/data/com.termux/files/home/Mahihkan/docs/BusinessPlan.md	408	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/CoverLetter.md	622	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/Disclosure.md	538	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/LICENSE_COMMERCIAL.md	422	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/Proposal.md	726	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/Proposal_Mahihkan.md	728	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/docs/README.md	233	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/fix_snipey_proper.sh	2447	sh	ops/workflows
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/.venv/pyvenv.cfg	377	cfg	ops/workflows
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/run_snipey.sh	465	sh	ops/workflows
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/BusinessPlan.md	485	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/MasterServiceAgreement.md	796	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/Proposal.md	619	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/CoverLetter.md	513	md	docs/corporate
+2025-12-06T00:57:25Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/Disclosure.md	429	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACS/docs/README.md	692	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/BusinessPlan.md	425	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Proposal.md	742	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/SLA.md	410	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/PrivacyPolicy.md	354	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Terms.md	321	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/ServiceContract_ACA_to_ACS.md	455	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/ServiceContract_ACA_to_CVR.md	429	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Pricing.md	344	md	ops/workflows
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/InvoiceTemplate.md	526	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/CoverLetter.md	305	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/Disclosure.md	284	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/ACA/docs/README.md	692	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/BusinessPlan.md	322	md	docs/corporate
+2025-12-06T00:57:26Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/Proposal.md	733	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/ServiceContract_CVR_to_ACS.md	405	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/Pricing.md	371	md	ops/workflows
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/InvoiceTemplate.md	480	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/CoverLetter.md	254	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/Disclosure.md	300	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/CVR_Essentials/docs/README.md	692	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/BusinessPlan.md	304	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/Proposal.md	622	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md	417	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/CoverLetter.md	257	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/Disclosure.md	336	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/README.md	694	md	docs/corporate
+2025-12-06T00:57:27Z	/data/data/com.termux/files/home/Mahihkan/Mahihkan/docs/README.pdf	116379	pdf	ops/assets
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/md_list.txt	441	txt	docs/corporate
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/output/README.pdf	105871	pdf	ops/assets
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/resettemplateandconverter.sh	2716	sh	ops/workflows
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/reset_template_and_converter.sh	2345	sh	ops/workflows
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/convert_with_template.sh	304	sh	ops/workflows
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/md2pdf_fleet.sh	652	sh	ops/workflows
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/templates/pandoc-template.tex	221	tex	docs/corporate
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/package/scripts/stamp_offset.sh	270	sh	ops/workflows
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/ignition.env	71	env	docs/corporate
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/bootstrap_zero_trust.sh	9306	sh	docs/trust
+2025-12-06T00:57:28Z	/data/data/com.termux/files/home/Mahihkan/.github/workflows/ci.yml	292	yml	ops/workflows
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/.github/workflows/ci.yml	581	yml	ops/workflows
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/SECURITY.md	619	md	docs/corporate
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/aca_live.json	509	json	ops/workflows
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/assets/sms_scope.png	331031	png	ops/assets
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/assets/snipey_og.png	134847	png	ops/assets
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/requirements.txt	16	txt	docs/corporate
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/run.sh	5080	sh	ops/workflows
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/Mahihkan_copy/static/img/Snipey_McSniperson_OG.jpg	134847	jpg	ops/assets
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/acs.sh	1689	sh	ops/workflows
+2025-12-06T00:57:29Z	/data/data/com.termux/files/home/mahihkan/mahihkan.sh	3262	sh	ops/workflows
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/ArcherChainAnalytics/README.md	132	md	docs/corporate
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/ArcherChainAnalytics/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/Ledger/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/.github/workflows/ci.yml	292	yml	ops/workflows
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/.venv/pyvenv.cfg	377	cfg	ops/workflows
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/bootstrap_zero_trust.sh	9306	sh	docs/trust
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/deploy_snipey.sh	1098	sh	ops/workflows
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/Invoice_ACA_to_CVR.md	803	md	docs/corporate
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	docs/corporate
+2025-12-06T00:57:30Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Billing/README.md	283	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/BusinessPlan.md	408	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/CoverLetter.md	622	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Disclosure.md	538	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/LICENSE_COMMERCIAL.md	422	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Proposal.md	726	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/Proposal_Mahihkan.md	728	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/docs/README.md	233	md	docs/corporate
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/fix_snipey_proper.sh	2447	sh	ops/workflows
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/package/convert_with_template.sh	304	sh	ops/workflows
+2025-12-06T00:57:31Z	/data/data/com.termux/files/home/mahihkan-fixed/package/md2pdf_fleet.sh	652	sh	ops/workflows
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/package/md_list.txt	441	txt	docs/corporate
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/package/output/README.pdf	105871	pdf	ops/assets
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/package/reset_template_and_converter.sh	2345	sh	ops/workflows
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/package/resettemplateandconverter.sh	2716	sh	ops/workflows
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/package/scripts/stamp_offset.sh	270	sh	ops/workflows
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/package/templates/pandoc-template.tex	221	tex	docs/corporate
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/run_snipey.sh	465	sh	ops/workflows
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/mahihkan-fixed/mahihkan-fixed.sh	1231	sh	ops/workflows
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/.texlive2025/texmf-var/web2c/luatex/luacsplain.log	4225	log	compliance/audit
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	docs/corporate
+2025-12-06T00:57:32Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/BusinessPlan.md	425	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/CoverLetter.md	305	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/Disclosure.md	284	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/Proposal.md	742	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/README.md	692	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/SLA.md	410	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACA/docs/Terms.md	321	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACS/docs/BusinessPlan.md	485	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACS/docs/CoverLetter.md	513	md	docs/corporate
+2025-12-06T00:57:33Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACS/docs/Disclosure.md	429	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACS/docs/Proposal.md	619	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ACS/docs/README.md	692	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/CVR_Essentials/docs/BusinessPlan.md	322	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/CVR_Essentials/docs/CoverLetter.md	254	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/CVR_Essentials/docs/Disclosure.md	300	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/CVR_Essentials/docs/Proposal.md	733	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/CVR_Essentials/docs/README.md	692	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/Mahihkan/docs/BusinessPlan.md	304	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/Mahihkan/docs/CoverLetter.md	257	md	docs/corporate
+2025-12-06T00:57:34Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/Mahihkan/docs/Disclosure.md	336	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/Mahihkan/docs/Proposal.md	622	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/Mahihkan/docs/README.md	694	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/Billing/README.md	283	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/BusinessPlan.md	408	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/CoverLetter.md	622	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/Disclosure.md	538	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/Proposal.md	726	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/Proposal_Mahihkan.md	728	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/docs/README.md	233	md	docs/corporate
+2025-12-06T00:57:35Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/package/md_list.txt	441	txt	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/package/templates/pandoc-template.tex	221	tex	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/Mahihkan/ignition.env	71	env	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/PROCLAMATION.md	1284	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/Billing/README.md	283	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/BusinessPlan.md	408	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/CoverLetter.md	622	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/Disclosure.md	538	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/Proposal.md	726	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/Proposal_Mahihkan.md	728	md	docs/corporate
+2025-12-06T00:57:36Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/docs/README.md	233	md	docs/corporate
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/package/md_list.txt	441	txt	docs/corporate
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/corporate/mahihkan-fixed/package/templates/pandoc-template.tex	221	tex	docs/corporate
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	docs/corporate
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/Proposal_Mahihkan.md	728	md	docs/corporate
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/Mahihkan/ACA/docs/ServiceContract_ACA_to_ACS.md	455	md	docs/contracts
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/Mahihkan/ACA/docs/ServiceContract_ACA_to_CVR.md	429	md	docs/contracts
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/Mahihkan/ACS/docs/MasterServiceAgreement.md	796	md	docs/contracts
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/Mahihkan/CVR_Essentials/docs/ServiceContract_CVR_to_ACS.md	405	md	docs/contracts
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/Mahihkan/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md	417	md	docs/contracts
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/Mahihkan/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	docs/contracts
+2025-12-06T00:57:37Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/contracts/mahihkan-fixed/docs/LicensingAgreement_Mahihkan_to_ACS.md	425	md	docs/contracts
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/trust/Mahihkan/bootstrap_zero_trust.sh	9306	sh	docs/trust
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/docs/trust/mahihkan-fixed/bootstrap_zero_trust.sh	9306	sh	docs/trust
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/compliance/policies/Mahihkan/ACA/docs/PrivacyPolicy.md	354	md	compliance/policies
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/bootstrap_zero_trust.sh	9306	sh	docs/trust
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/mahihkan-fixed.sh	1231	sh	ops/workflows
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/Mahihkan/ACA/docs/InvoiceTemplate.md	526	md	finance/ledger
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/Mahihkan/CVR_Essentials/docs/InvoiceTemplate.md	480	md	finance/ledger
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/Mahihkan/docs/Billing/Invoice_ACA_to_CVR.md	803	md	finance/ledger
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/Mahihkan/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	finance/ledger
+2025-12-06T00:57:38Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/Mahihkan/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	finance/ledger
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/mahihkan-fixed/docs/Billing/Invoice_ACA_to_CVR.md	803	md	finance/ledger
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/mahihkan-fixed/docs/Billing/Invoice_CVR_to_Mahihkan.md	456	md	finance/ledger
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/finance/ledger/mahihkan-fixed/docs/Billing/Invoice_Mahihkan_to_ACS.md	446	md	finance/ledger
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/assets/Mahihkan/Mahihkan/docs/README.pdf	116379	pdf	ops/assets
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/assets/Mahihkan/package/output/README.pdf	105871	pdf	ops/assets
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/assets/mahihkan-fixed/package/output/README.pdf	105871	pdf	ops/assets
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/.github/workflows/ci.yml	292	yml	ops/workflows
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/.venv/pyvenv.cfg	377	cfg	ops/workflows
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/ACA/docs/Pricing.md	344	md	ops/workflows
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/CVR_Essentials/docs/Pricing.md	371	md	ops/workflows
+2025-12-06T00:57:39Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/deploy_snipey.sh	1098	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/docs/LICENSE_COMMERCIAL.md	422	md	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/fix_snipey_proper.sh	2447	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/package/convert_with_template.sh	304	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/package/md2pdf_fleet.sh	652	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/package/reset_template_and_converter.sh	2345	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/package/resettemplateandconverter.sh	2716	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/package/scripts/stamp_offset.sh	270	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/Mahihkan/run_snipey.sh	465	sh	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/.github/workflows/ci.yml	292	yml	ops/workflows
+2025-12-06T00:57:40Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/.venv/pyvenv.cfg	377	cfg	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/deploy_snipey.sh	1098	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/docs/LICENSE_COMMERCIAL.md	422	md	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/fix_snipey_proper.sh	2447	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/mahihkan-fixed.sh	1231	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/package/convert_with_template.sh	304	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/package/md2pdf_fleet.sh	652	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/package/reset_template_and_converter.sh	2345	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/package/resettemplateandconverter.sh	2716	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/package/scripts/stamp_offset.sh	270	sh	ops/workflows
+2025-12-06T00:57:41Z	/data/data/com.termux/files/home/Company_Admin_Misc_sweep/ops/workflows/mahihkan-fixed/run_snipey.sh	465	sh	ops/workflows

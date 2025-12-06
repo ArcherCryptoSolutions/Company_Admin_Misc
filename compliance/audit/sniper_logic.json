@@ -1,0 +1,15 @@
+✠ Sovereign Property of ArcherCryptoSolutionsInc ✠
+Bound under Admiralty Law and Intellectual Dominion
+
+
+{
+    "MAX_OPEN_TRADES": 4,
+    "ANTI_RUG_ENABLED": true,
+    "BUY_PERCENTAGE_OF_WALLET": 15,
+    "SELL_LOGIC": {
+        "SELL_ON_PEAK_REVERSAL_ENABLED": true,
+        "REVERSAL_PERCENTAGE": 2.0,
+        "SELL_ON_STALL_ENABLED": true,
+        "STALL_TIMEOUT_SECONDS": 10
+    }
+}

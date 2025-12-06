@@ -1,0 +1,17 @@
+✠ Sovereign Property of ArcherCryptoSolutionsInc ✠
+Bound under Admiralty Law and Intellectual Dominion
+
+
+{
+  "wallets": [
+    {
+      "wallet": "HwYJuzW4fHWZ6y4FSr5rxNnqWqwnZYCvDxyNc39XxUjh",
+      "balance": 0.026528194,
+      "signatures_count": 20,
+      "transactions_count": 4,
+      "account_info": {
+        "raw": "{\"lamports\":26528194,\"data\":[],\"owner\":\"11111111111111111111111111111111\",\"executable\":false,\"rentEpoch\":18446744073709551615}"
+      }
+    }
+  ]
+}
